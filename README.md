@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-As an entry-level developer, I am eager to collaborate with experienced professionals to further enhance my skills and gain hands-on experience in complex projects. I am a detail-oriented individual who enjoys problem-solving and finding innovative solutions. I am also a strong advocate for clean and maintainable code, as it improves the overall quality and efficiency of software development.
+As a software developer, I am eager to collaborate with experienced professionals to further enhance my skills and gain hands-on experience in complex projects. I am a detail-oriented individual who enjoys problem-solving and finding innovative solutions. I am also a strong advocate for clean and maintainable code, as it improves the overall quality and efficiency of software development.
 
 My passion for creating exceptional user experiences drives me to continuously explore new technologies and frameworks. I am particularly interested in leveraging my full-stack skills to develop applications that have a positive impact on people's lives. Whether it's building intuitive interfaces, optimizing database performance, or ensuring robust security measures, I am committed to delivering high-quality solutions😍😍  
   
